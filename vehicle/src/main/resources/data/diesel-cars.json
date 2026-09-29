@@ -1,0 +1,16 @@
+[
+  { "brand": "Toyota", "model": "Hilux", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 80.0 },
+  { "brand": "Toyota", "model": "Land Cruiser", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 93.0 },
+
+  { "brand": "Ford", "model": "Ranger", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 80.0 },
+  { "brand": "Ford", "model": "Transit", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 70.0 },
+
+  { "brand": "BMW", "model": "X3", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 65.0 },
+  { "brand": "BMW", "model": "X5", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 80.0 },
+
+  { "brand": "Mercedes", "model": "Sprinter", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 75.0 },
+  { "brand": "Mercedes", "model": "GLC", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 66.0 },
+
+  { "brand": "Volkswagen", "model": "Amarok", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 80.0 },
+  { "brand": "Volkswagen", "model": "Tiguan", "year": 2020, "fuelType": "DIESEL", "tankCapacity": 58.0 }
+]

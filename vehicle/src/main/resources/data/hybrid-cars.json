@@ -1,0 +1,11 @@
+[
+  { "brand": "Toyota", "model": "Prius", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 43.0 },
+  { "brand": "Toyota", "model": "Corolla Hybrid", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 43.0 },
+  { "brand": "Toyota", "model": "RAV4 Hybrid", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 55.0 },
+
+  { "brand": "Hyundai", "model": "Ioniq", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 45.0 },
+  { "brand": "Hyundai", "model": "Sonata Hybrid", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 50.0 },
+
+  { "brand": "Honda", "model": "Insight", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 40.0 },
+  { "brand": "Honda", "model": "CR-V Hybrid", "year": 2020, "fuelType": "HYBRID", "tankCapacity": 57.0 }
+]

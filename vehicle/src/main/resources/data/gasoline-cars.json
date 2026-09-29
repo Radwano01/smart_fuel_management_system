@@ -1,0 +1,18 @@
+[
+  { "brand": "Toyota", "model": "Yaris", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 42.0 },
+  { "brand": "Toyota", "model": "Corolla", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 50.0 },
+  { "brand": "Toyota", "model": "Camry", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 60.0 },
+
+  { "brand": "Volkswagen", "model": "Polo", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 40.0 },
+  { "brand": "Volkswagen", "model": "Golf", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 50.0 },
+  { "brand": "Volkswagen", "model": "Passat", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 66.0 },
+
+  { "brand": "Ford", "model": "Fiesta", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 42.0 },
+  { "brand": "Ford", "model": "Focus", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 55.0 },
+
+  { "brand": "BMW", "model": "3 Series", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 59.0 },
+  { "brand": "BMW", "model": "5 Series", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 68.0 },
+
+  { "brand": "Mercedes", "model": "C-Class", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 66.0 },
+  { "brand": "Mercedes", "model": "E-Class", "year": 2020, "fuelType": "GASOLINE", "tankCapacity": 66.0 }
+]

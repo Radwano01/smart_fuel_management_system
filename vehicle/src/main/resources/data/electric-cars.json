@@ -1,0 +1,10 @@
+[
+  { "brand": "Tesla", "model": "Model 3", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 },
+  { "brand": "Tesla", "model": "Model Y", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 },
+  { "brand": "Tesla", "model": "Model S", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 },
+
+  { "brand": "Nissan", "model": "Leaf", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 },
+
+  { "brand": "BMW", "model": "i3", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 },
+  { "brand": "BMW", "model": "iX3", "year": 2020, "fuelType": "ELECTRIC", "tankCapacity": 0.0 }
+]

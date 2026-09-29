@@ -1,0 +1,64 @@
+spring:
+  main:
+    web-application-type: none
+  application:
+    name: fuel-session
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/fuel-sessions
+    username: radwan
+    password: password
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+fuel:
+  preauth:
+    buffer-percentage: 0.20
+    minimum-amount: 500
+    maximum-amount: 2000
+
+jwt:
+  secret: 
+  expiration: 900000
+
+mqtt:
+  broker-uri: tcp://localhost:1883
+  client-id: fuel-session-service
+  username: guest
+  password: guest
+  clean-session: true
+  connection-timeout: 10s
+  keep-alive-interval: 30s
+  publish-timeout: 5s
+  default-qos: 1
+  persistence-directory: target/mqtt/fuel-session
+  reconnect:
+    initial-delay: 2s
+    max-delay: 30s
+  topics:
+    start: fuel/session/start
+    stop: fuel/session/stop
+    pause: fuel/session/pause
+    resume: fuel/session/resume
+
+    start-response-prefix: fuel/session/start/response
+    stop-response-prefix: fuel/session/stop/response
+    pause-response-prefix: fuel/session/pause/response
+    resume-response-prefix: fuel/session/resume/response
